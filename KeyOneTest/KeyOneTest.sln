@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyOneTest", "KeyOneTest.csproj", "{13E7FDB0-B60C-4E71-8EE3-771BA58990C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyOneTest.Tests", "..\KeyOneTest.Tests\KeyOneTest.Tests.csproj", "{7D4DBF36-69AB-4404-9927-18A44B8BB541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E7FDB0-B60C-4E71-8EE3-771BA58990C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E7FDB0-B60C-4E71-8EE3-771BA58990C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E7FDB0-B60C-4E71-8EE3-771BA58990C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E7FDB0-B60C-4E71-8EE3-771BA58990C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4DBF36-69AB-4404-9927-18A44B8BB541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4DBF36-69AB-4404-9927-18A44B8BB541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4DBF36-69AB-4404-9927-18A44B8BB541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4DBF36-69AB-4404-9927-18A44B8BB541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38887839-89C7-438C-8B0C-7F59980954CE}
+	EndGlobalSection
+EndGlobal
