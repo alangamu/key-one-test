@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyOneTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1befc194c6959b5a62c72e8550c02881d75b685")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56830eccb0b25f488ec41ee9323fff587aadcf02")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeyOneTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyOneTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
